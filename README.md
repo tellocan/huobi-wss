@@ -1,4 +1,4 @@
-# huobi Websocket symbols price
+# huobi Websocket symbol price
 İnstall
 <pre>npm i moment</pre>
 <pre>npm i ws</pre>
