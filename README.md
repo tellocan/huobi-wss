@@ -1,2 +1,2 @@
-# huobi-wss
-npm i pako
+# huobi Websocket 
+<code>npm i pako</code>
